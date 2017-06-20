@@ -26,3 +26,6 @@
 .rvmrc
 .byebug_history
 .powenv
+
+
+.DS_Store
